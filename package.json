@@ -1,0 +1,23 @@
+{
+  "name": "week-9-assignment",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) # Week-9-assignment-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boddiegoat7/Week-9-assignment-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boddiegoat7/Week-9-assignment-/issues"
+  },
+  "homepage": "https://github.com/boddiegoat7/Week-9-assignment-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
