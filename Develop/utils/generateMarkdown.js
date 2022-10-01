@@ -81,7 +81,7 @@ function renderLicenseSection(license) {
     return `
 
 ## License
--The project has ${license} license. The link for this can be found here: [${license}]${renderLicenseLink(license)}`;
+- The project has ${license} license. The link for this can be found here: [${license}]${renderLicenseLink(license)}`;
 
   };
 

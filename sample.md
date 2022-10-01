@@ -30,7 +30,7 @@
 - The user follows prompts to generate a README FILE.
 
 ## License
--The project has None license. The link for this can be found here: [None]
+- The project has None license. The link for this can be found here: [None]
 
 ## CONTRIBUTE
 
