@@ -1,6 +1,6 @@
-# README GENERATOR
+# enter command
 
-    
+    [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## TABLE OF CONTENTS
   - [DESCRIPTION](#description)
@@ -14,40 +14,41 @@
 
 ## DESCRIPTION
         
-- This project is used so that way you can create and generate a read me file quickly and easily for future projects.
+- enter command
 
 ## PACKAGES
 
-- npm inquier *node js
+- enter command
 
 
 ## INSTALATION
       
-- to install the packages correctly you use "npm install" and "npm i inquirer"
+- enter command
 
 ## USAGE
 
-- The user follows prompts to generate a README FILE.
+- enter command
+
 
 ## License
-- The project has None license. The link for this can be found here: [None]
+- The project has MPL license. The link for this can be found here: [MPL](https://opensource.org/licenses/MPL-2.0)
 
 ## CONTRIBUTE
 
-- Victor boddie jr
+- enter command
 
 ## TEST
       
-- To run the project just pull the code from the following github link and opening in vs code.
+- enter command
 
 ## QUESTIONS
 
 Please message me if you have any question about the project at:
 
--[$GitHub: [boddiegoat7](https://github.com/boddiegoat7)
+-[$GitHub: [enter command](https://github.com/enter command)
         
 or
         
--email: [victorboddie21@gmail.com](mailto:victorboddie21@gmail.com})
+-email: [enter command](mailto:enter command})
 
-       
+![caption](https://drive.google.com/file/d/1fzOiwurTnVyDZq3e_8lpaVSOgERbslYt/view)
