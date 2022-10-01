@@ -10,48 +10,54 @@ const questions = [
     
     {
     type: "input",
-    name: "name",
+    name: "title",
     message: "What is the project title?",
     },
     {
         type: "input",
-        name: "Description",
+        name: "description",
         message: "Give a description of your project.",
     },
     {
         type: "input",
-        name: "Table of contents",
+        name: "table of contents",
         message: "What is the contents of the project",
     },
     {
         type: "input",
-        name: "Installation",
+        name: "installation",
         message: "How do you instal this project?",
     },
     {
         type: "input",
-        name: "Usage",
+        name: "usage",
         message: "How is this project used?",
     },
     {
-        type: "input",
-        name: "License",
-        message: "what is you Liscense for this project?",
+        type: "list",
+        message: "What is you Liscense for this project?",
+        name: "license",
+        choices: ['None', 'MPL', 'ODbl', 'GPL', 'MIT', 'ISC'],
     },
     {
         type: "input", 
-        name: "Contributing",
+        name: "contributing",
         message: "who contributed to the project?",
     },
     {
         type: "input",
-        name: "Test",
+        name: "test",
         message: "how do i test the project?",
     },
     {
-        type: "input",
-        name: "Questions",
-        message: "Do you have any question to add about the project?",
+        type: 'input',
+        name: 'username',
+        message: ' Add github username so that users can ask questions',
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Enter your email address.',
     },
     
 
