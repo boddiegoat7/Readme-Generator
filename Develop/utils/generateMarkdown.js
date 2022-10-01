@@ -76,12 +76,14 @@ function renderLicenseSection(license) {
 
   if (license == "") {
     return "";
-  
-  } else {
+  }
+  else {
     return `
-    ## License
-        -The project has ${license} license. The link for this can be found here: [${license}]${renderLicenseLink(license)}`;
-};
+
+## License
+-The project has ${license} license. The link for this can be found here: [${license}]${renderLicenseLink(license)}`;
+
+  };
 
 
 
@@ -96,46 +98,51 @@ function renderLicenseSection(license) {
 
     ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
 
-      ## TABLE OF CONTENTS
-        
-        - [DESCRIPTION](#description)
-        - [INSTALLION](#installation)
-        - [Usage](#usage)
-        - [LICENSE](#license)
-        - [CONTRIBUTE](#contribute)
-        - [TEST](#test)
-        - [QUESTION](#questions)
+## TABLE OF CONTENTS
+  - [DESCRIPTION](#description)
+  - [PACKAGES](#packages)
+  - [INSTALLION](#installation)
+  - [Usage](#usage)
+  - [LICENSE](#license)
+  - [CONTRIBUTE](#contribute)
+  - [TEST](#test)
+  - [QUESTION](#questions)
 
-      ## DESCRIPTION
+## DESCRIPTION
         
-        - ${data.description}
-        
+- ${data.description}
 
-      ## INSTALATION
+## PACKAGES
+
+- ${data.packages}
+
+
+## INSTALATION
       
-        - ${data.installation}
+- ${data.installation}
 
-      ## USAGE
+## USAGE
 
-      - ${data.usage}
-      ${renderLicenseSection(data.license)}
+- ${data.usage}
+${renderLicenseSection(data.license)}
 
-      ## CONTRIBUTE
+## CONTRIBUTE
 
-        - ${data.contributing}
+- ${data.contributing}
 
-      ## TEST
+## TEST
       
-        - ${data.test}
+- ${data.test}
 
-      ## QUESTIONS
+## QUESTIONS
 
-      Please message me if you have any question about the project at:
-        [$GitHub: [${data.username}](https://github.com/${data.username})
+Please message me if you have any question about the project at:
+
+-[$GitHub: [${data.username}](https://github.com/${data.username})
         
-        or
+or
         
-        -email: [${data.email}](mailto:${data.email}})
+-email: [${data.email}](mailto:${data.email}})
 
     `;
 

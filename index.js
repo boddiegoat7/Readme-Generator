@@ -9,24 +9,24 @@ const generateMarkdown = require('./Develop/utils/generateMarkdown');
 const questions = [
     
     {
-    type: "input",
-    name: "title",
-    message: "What is the project title?",
+        type: "input",
+        name: "title",
+        message: "What is the title of this project title?",
     },
     {
         type: "input",
         name: "description",
-        message: "Give a description of your project.",
+        message: "Give a short description of your project.",
     },
     {
         type: "input",
-        name: "table of contents",
-        message: "What is the contents of the project",
+        name: "packages",
+        message: "What packages were used in this project?",
     },
     {
         type: "input",
         name: "installation",
-        message: "How do you instal this project?",
+        message: "How do you install this project?",
     },
     {
         type: "input",
@@ -42,12 +42,12 @@ const questions = [
     {
         type: "input", 
         name: "contributing",
-        message: "who contributed to the project?",
+        message: "Who contributed to the project?",
     },
     {
         type: "input",
         name: "test",
-        message: "how do i test the project?",
+        message: "How do I test the project?",
     },
     {
         type: 'input',
