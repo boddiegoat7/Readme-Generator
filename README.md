@@ -4,7 +4,7 @@
 
       ## TABLE OF CONTENTS
         
-        - [DESCRIPTION](#description)
+        -[DESCRIPTION](#description)
         - [INSTALLION](#installation)
         - [Usage](#usage)
         - [LICENSE](#license)
