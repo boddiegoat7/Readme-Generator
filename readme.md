@@ -6,7 +6,7 @@
   - [DESCRIPTION](#description)
   - [PACKAGES](#packages)
   - [INSTALLION](#installation)
-  - [Usage](#usage)
+  - [USAGE](#usage)
   - [LICENSE](#license)
   - [CONTRIBUTE](#contribute)
   - [TEST](#test)
