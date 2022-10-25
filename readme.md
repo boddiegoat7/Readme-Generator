@@ -50,8 +50,7 @@ or
         
 - email: [victorboddie21@gmail.com](mailto:victorboddie21@gmail.com})
 
-<<<<<<< HEAD
-[watch video](https://drive.google.com/file/d/1fzOiwurTnVyDZq3e_8lpaVSOgERbslYt/view)   
-=======
+
 [video link](https://drive.google.com/file/d/1fzOiwurTnVyDZq3e_8lpaVSOgERbslYt/view)   
->>>>>>> 47909f200e32d8381713ae0da27b102f108c8489
+
+
