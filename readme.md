@@ -44,10 +44,10 @@
 
 Please message me if you have any question about the project at:
 
--[$GitHub: [boddiegoat7](https://github.com/boddiegoat7)
+- GitHub: [boddiegoat7](https://github.com/boddiegoat7)
         
 or
         
--email: [victorboddie21@gmail.com](mailto:victorboddie21@gmail.com})
+- email: [victorboddie21@gmail.com](mailto:victorboddie21@gmail.com})
 
-[caption](https://drive.google.com/file/d/1fzOiwurTnVyDZq3e_8lpaVSOgERbslYt/view)   
+[watch video](https://drive.google.com/file/d/1fzOiwurTnVyDZq3e_8lpaVSOgERbslYt/view)   

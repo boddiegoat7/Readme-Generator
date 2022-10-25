@@ -138,7 +138,7 @@ ${renderLicenseSection(data.license)}
 
 Please message me if you have any question about the project at:
 
--[$GitHub: [${data.username}](https://github.com/${data.username})
+- GitHub: [${data.username}](https://github.com/${data.username})
         
 or
         
